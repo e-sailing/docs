@@ -121,6 +121,13 @@ Welcome to OpenPlotter's documentation!
 
 .. toctree::
    :maxdepth: 1
+   :caption: Sdr-ais - 2.0.0
+   :name: sec-sdr-ais
+
+   sdr-ais/sdr-ais_app
+
+.. toctree::
+   :maxdepth: 1
    :caption: External Apps
    :name: sec-external
 

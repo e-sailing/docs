@@ -76,7 +76,7 @@ Picture: output
 
 OpencpnOut settings in Signal K connection should be:
 
-.. image:: img/sk-ui-OpenplotterOut.png
+.. image:: img/sk-ui-OpencpnOut.png
 
 Picture: Settings to receive the RMB sentence from openCPN
 
